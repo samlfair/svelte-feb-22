@@ -1,4 +1,4 @@
-// ~/src/routes/[uid]].js
+// ~/src/routes/[uid].js
 
 import createClient from '$lib/prismicio'
 
